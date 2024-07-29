@@ -1,4 +1,4 @@
-# electricity-hike-dashdoard
+# Electricity Hike Dashdoard
 
 ![Electricity Price Hike Perception Survey Dashboard](https://github.com/OKONJI126/electricity-hike-dashdoard/blob/main/Screenshot%20(13).png)
 
